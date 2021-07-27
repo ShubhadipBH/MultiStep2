@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MultiStep2/static/css/main.9ace5a55.chunk.css",
+    "main.js": "/MultiStep2/static/js/main.a6ae869a.chunk.js",
+    "main.js.map": "/MultiStep2/static/js/main.a6ae869a.chunk.js.map",
+    "runtime-main.js": "/MultiStep2/static/js/runtime-main.913d21bc.js",
+    "runtime-main.js.map": "/MultiStep2/static/js/runtime-main.913d21bc.js.map",
+    "static/css/2.4be38407.chunk.css": "/MultiStep2/static/css/2.4be38407.chunk.css",
+    "static/js/2.ef9eb23e.chunk.js": "/MultiStep2/static/js/2.ef9eb23e.chunk.js",
+    "static/js/2.ef9eb23e.chunk.js.map": "/MultiStep2/static/js/2.ef9eb23e.chunk.js.map",
+    "static/js/3.7985ec54.chunk.js": "/MultiStep2/static/js/3.7985ec54.chunk.js",
+    "static/js/3.7985ec54.chunk.js.map": "/MultiStep2/static/js/3.7985ec54.chunk.js.map",
+    "index.html": "/MultiStep2/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/MultiStep2/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.9ace5a55.chunk.css.map": "/MultiStep2/static/css/main.9ace5a55.chunk.css.map",
+    "static/js/2.ef9eb23e.chunk.js.LICENSE.txt": "/MultiStep2/static/js/2.ef9eb23e.chunk.js.LICENSE.txt",
+    "static/media/Registration.css": "/MultiStep2/static/media/38598.4ec27180.jpg",
+    "static/media/logo.6ce24c58.svg": "/MultiStep2/static/media/logo.6ce24c58.svg",
+    "static/media/home.css": "/MultiStep2/static/media/welcomePic.f669ec93.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.913d21bc.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.ef9eb23e.chunk.js",
+    "static/css/main.9ace5a55.chunk.css",
+    "static/js/main.a6ae869a.chunk.js"
+  ]
+}
